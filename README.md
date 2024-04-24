@@ -1,3 +1,3 @@
 ## Hylins Dot Com - CV
 
-Deployment
+- Set up Vercel!
